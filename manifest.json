@@ -1,8 +1,8 @@
 {
- "name": "I-SHOW (Mobile)",
  "display": "fullscreen",
+ "start_url": "index.htm",
+ "name": "I-SHOW (Mobile)",
  "theme_color": "#212D69",
- "background_color": "#212D69",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +40,5 @@
    "sizes": "64x64"
   }
  ],
- "start_url": "index.htm"
+ "background_color": "#212D69"
 }
