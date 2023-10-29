@@ -1,6 +1,7 @@
 {
+ "start_url": "index.htm",
  "display": "fullscreen",
- "background_color": "#212D69",
+ "description": "Mobile Version 10-2023",
  "name": "I-SHOW (MOBO)",
  "icons": [
   {
@@ -39,7 +40,6 @@
    "sizes": "64x64"
   }
  ],
- "start_url": "index.htm",
- "description": "Mobile Version 10-2023",
- "theme_color": "#212D69"
+ "theme_color": "#212D69",
+ "background_color": "#212D69"
 }
